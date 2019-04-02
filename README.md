@@ -2,6 +2,11 @@
 
 a lint save you from 996
 
+## Feature list
+
+ * 每天 18:00 之后禁止代码变更
+ * 周六周日 禁止代码变更
+
 ## Installation
 
 You'll first need to install [ESLint](http://eslint.org):
