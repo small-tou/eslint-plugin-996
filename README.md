@@ -1,4 +1,4 @@
-# eslint-plugin-996
+# eslint-plugin-nns
 
 a lint save you from 996
 
@@ -30,7 +30,7 @@ Add `996` to the plugins section of your `.eslintrc` configuration file. You can
 ```json
 {
     "plugins": [
-        "996"
+        "nns"
     ]
 }
 ```
@@ -41,7 +41,7 @@ Then configure the rules you want to use under the rules section.
 ```json
 {
     "rules": {
-        "996/rule-name": 2
+        "nns/rule-name": 2
     }
 }
 ```
