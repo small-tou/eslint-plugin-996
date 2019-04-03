@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-nns",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "a lint save you from 996",
   "keywords": [
     "eslint",
